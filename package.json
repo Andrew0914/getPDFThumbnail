@@ -4,7 +4,8 @@
   "description": "A project for an AWS lambda function that creates the first pdf page as an image",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "create-package": "zip -r function.zip"
   },
   "repository": {
     "type": "git",
