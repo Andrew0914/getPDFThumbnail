@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "test",
-    "create-package": "zip -r function.zip"
+    "create-package": "zip -r function.zip ."
   },
   "repository": {
     "type": "git",
